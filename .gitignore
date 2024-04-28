@@ -1,6 +1,16 @@
 # Prerequisites
 *.d
-
+*.mp4
+*.wav
+*.mp3
+*.jpg
+*.png
+*.xml
+*.cfa
+*.mov
+*.pek
+*.aep
+*.prpoj
 # Object files
 *.o
 *.ko
